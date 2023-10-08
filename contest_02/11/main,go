@@ -11,7 +11,7 @@ func isValidSudoku(bord [rows][cols]int) bool {
 			}
 		}
 	}
-	
+
 	for col := 0; col < cols; col++ {
 		visited := make(map[int]bool)
 		for row := 0; row < rows; row++ {
