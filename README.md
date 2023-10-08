@@ -39,3 +39,6 @@
 | [10. Функция. Сдвиг элементов массива](./contest_02/10/main.go) | ![](./img/go.png) |
 | [11. Функция. Валидатор судоку](./contest_02/11/main.go) | ![](./img/go.png) |
 | [12. Функция. Сапёр (поле)](./contest_02/12/main.go) | ![](./img/go.png) |
+
+|[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
+| --- | :-: |
