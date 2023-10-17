@@ -42,3 +42,12 @@
 
 |[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
 | --- | :-: |
+| [1. Объединить отсортированные последовательности](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Валидатор скобочной последовательности](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
+| [3. Обратная польская нотация](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
+| [4. Общие слова в последовательностях](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
+| [5. Самое частое слово](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
+| [6. Баланс пользователя](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
+| [7. Какое следующее слово](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
+| [8. Уникальное число](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
+| [9. Подходящая пара чисел](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
