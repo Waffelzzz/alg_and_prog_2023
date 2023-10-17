@@ -49,5 +49,5 @@
 | [5. Самое частое слово](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
 | [6. Баланс пользователя](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
 | [7. Какое следующее слово](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
-| [8. Уникальное число](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
-| [9. Подходящая пара чисел](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
+| [8. Уникальное число](./contest_01/01/main.cpp) | ![](./img/go.png) |
+| [9. Подходящая пара чисел](./contest_01/01/main.cpp) | ![](./img/go.png) |
